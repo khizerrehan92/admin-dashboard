@@ -69,7 +69,6 @@ body {
 .container {
   display: -ms-grid;
   display: grid;
-  height: 100vh;
   -ms-grid-columns: 0.8fr 1fr 1fr 1fr;
       grid-template-columns: 0.8fr 1fr 1fr 1fr;
   -ms-grid-rows: 0.2fr 3fr;
